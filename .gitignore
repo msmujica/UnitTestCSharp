@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 # Mac OS
 .DS_Store
+
+# Doxygen
+docs/html
+
+# Test coverage
+lcov.info
