@@ -1,4 +1,4 @@
-![UCU](./Assets/logo-ucu.png)
+![UCU](./assets/logo-ucu.png)
 # Debug & Test
 ## Programación II
 ### FIT—Universidad Católica del Uruguay
@@ -14,7 +14,7 @@ Para mostrar los errores usamos casos de prueba.
 Para depurar los casos de prueba, puedes poner un breakpoint en el caso de prueba que quieras depurar y, luego, usar cualquiera de los siguientes mecanismos:
 
 - En la paleta de comandos, ejecutar el comando **Test: Debug All Test**.
-![](./assets/Untitled.gif)
+![](./assets/Debug%20from%20command%20palette.gif)
 
 - En el explorador de casos de prueba, ejecutar el comando **Debug Tests**.
 ![](./assets/Debug%20from%20test%20explorer.gif)
