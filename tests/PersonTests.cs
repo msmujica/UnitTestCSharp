@@ -51,6 +51,7 @@ namespace ObjectLifecycle.Tests
 
             Assert.AreEqual(fullName, person.FullName);
         }
+<<<<<<< HEAD
 
         [Test]
         public void TestAge()
@@ -65,5 +66,7 @@ namespace ObjectLifecycle.Tests
 
             
         }
+=======
+>>>>>>> refs/remotes/origin/main
     }
 }
