@@ -78,12 +78,12 @@ namespace Ucu.Poo.Persons.Tests
         }
 
         /// <summary>
-        /// Prueba la propiedad <see cref="Person.Age">
+        /// Prueba la propiedad <see cref="Person.Age"/>.
         /// </summary>
         [Test]
         public void TestAge()
         {
-            Person person= new Person("Nombre", "Apellido");
+            Person person = new Person("Nombre", "Apellido");
             int age = 10;
             DateTime birthDate = DateTime.Today.AddYears(-age);
 

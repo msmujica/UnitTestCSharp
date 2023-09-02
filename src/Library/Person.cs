@@ -3,10 +3,6 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //-------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
-
->>>>>>> refs/remotes/origin/main
 using System;
 
 namespace Ucu.Poo.Persons
@@ -17,10 +13,6 @@ namespace Ucu.Poo.Persons
     public class Person
     {
         /// <summary>
-<<<<<<< HEAD
-        /// Initialises a new instance of the <see cref="Person"/> class.
-=======
->>>>>>> refs/remotes/origin/main
         /// Inicializa una nueva instancia de la clase <see cref="Person"/> con el nombre y apellidos recibidos como argumento.
         /// </summary>
         /// <param name="name">El nombre de la persona.</param>

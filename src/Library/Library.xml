@@ -11,10 +11,6 @@
         </member>
         <member name="M:Ucu.Poo.Persons.Person.#ctor(System.String,System.String)">
             <summary>
-<<<<<<< HEAD
-            Initialises a new instance of the <see cref="T:Ucu.Poo.Persons.Person"/> class.
-=======
->>>>>>> refs/remotes/origin/main
             Inicializa una nueva instancia de la clase <see cref="T:Ucu.Poo.Persons.Person"/> con el nombre y apellidos recibidos como argumento.
             </summary>
             <param name="name">El nombre de la persona.</param>
@@ -34,8 +30,6 @@
         </member>
         <member name="P:Ucu.Poo.Persons.Person.FullName">
             <summary>
-<<<<<<< HEAD
-            Gets the person name.
              Obtiene el nombre completo de la persona concatenando el nombre y el apellido.
             </summary>
         </member>
@@ -49,11 +43,6 @@
             Obtiene la edad de la persona al día de hoy.
             </summary>
         </member>
-=======
-             Obtiene el nombre completo de la persona concatenando el nombre y el apellido.
-            </summary>
-        </member>
->>>>>>> refs/remotes/origin/main
         <member name="M:Ucu.Poo.Persons.Person.IntroduceTo(Ucu.Poo.Persons.Person)">
             <summary>
             Esta persona se presenta con otra.
