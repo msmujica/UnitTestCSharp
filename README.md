@@ -11,7 +11,9 @@ width="150"/>
 
 Código de ejemplo del tema debug &amp; test.
 
-Este ejemplo usa la clase Person que ya conoces de repos anteriores. Agrega la propiedad `Age` que retorna la edad de una persona al día de hoy.
+## Introducción
+
+Este ejemplo usa la clase `Person` que ya conoces de repos anteriores. Agrega la propiedad `Age` que retorna la edad de una persona al día de hoy.
 
 >[!WARNING]
 >**El código tiene errores**. El objetivo de esta actividad es justamente que uses la funcionalidad de depuración —debug— para encontrar los errores y corregirlos.
@@ -26,4 +28,8 @@ Para depurar los casos de prueba, puedes poner un *breakpoint* en el caso de pru
 
 * Mostar la ventana de casos de prueba con el comando `View | Tool Windows | Tests`
 * En la ventana `Test`, usa el comando `Debug Unit Tests` o haz clic en el icono ![Debug Unit Tests](https://intellij-icons.jetbrains.design/icons/AllIcons/expui/run/debug_dark.svg).
-  ![Debug Unit Tests](/assets/Debug Unit Tests.gif)
+  ![Debug Unit Tests.gif](assets/Debug%20Unit%20Tests.gif)
+
+## Objetivo
+
+Depurar la clase `Person` para descubrir donde están los errores y corregirlos.
