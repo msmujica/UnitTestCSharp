@@ -85,8 +85,7 @@ namespace Ucu.Poo.Persons.Tests
         {
             Person person = new Person("Nombre", "Apellido");
             int age = 10;
-            DateTime birthDate = DateTime.Today.AddYears(-age);
-
+            DateTime birthDate = DateTime.Today.AddYears(age);
             person.BirthDate = birthDate;
 
             Assert.AreEqual(age, person.Age);

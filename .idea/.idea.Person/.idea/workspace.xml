@@ -8,9 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cb8fc7a-ab95-45a1-a178-34a6ea8c7a59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Debug from command palette.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Debug from test explorer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Person/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Person/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Person/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Person/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,22 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1/Assert.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///usr/local/share/dotnet/sdk/8.0.303/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c80f4184537945ca9e964de01f5103fe385a8/0e/03b1093f/Launcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d0e65377bc494d67be26c56e681419f076e00/5b/dd2ddb2d/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d056b4e3b34cd15e21dec611d5b5bbaf85e1f15b445f4e6b3e4dc6634d649042/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -49,10 +65,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.Program.executor": "Debug",
+    ".NET Static Method.Ucu.Poo.Persons.Program.AssignTwoVariablesWithObject.executor": "Debug",
+    "038af7d9-afdb-465d-958c-563210019ae6.executor": "Debug",
+    "4c7b0e22-e3d6-4beb-b9bf-43098fb4d533.executor": "Debug",
+    "9f097d7b-3e51-41bc-98d0-699e518ba711.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "a9693c2c-6e4f-4b17-b1ea-4c745f176882.executor": "Debug",
     "d740522c-0eaa-4824-9bc5-7fbed9a06672.executor": "Debug",
+    "d782a5c1-dd96-40d1-9c5c-e900f6350502.executor": "Debug",
+    "ed012b24-a67d-4059-ae2f-3d3a74ae279e.executor": "Debug",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Estudiante UCU\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Estudiante UCU\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Project.Program">
@@ -74,6 +111,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Ucu.Poo.Persons.Program.AssignTwoVariablesWithObject" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2024.1.4\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/Program/Program.csproj" />
+      <option name="PROJECT_TFM" value="net8.0" />
+      <option name="CLASS_NAME" value="Ucu.Poo.Persons.Program" />
+      <option name="METHOD_NAME" value="AssignTwoVariablesWithObject" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Ucu.Poo.Persons.Program.AssignTwoVariablesWithObject" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -87,11 +145,15 @@
       <workItem from="1724850432396" duration="515000" />
       <workItem from="1724850951573" duration="321000" />
       <workItem from="1724851299361" duration="2365000" />
+      <workItem from="1725456071719" duration="2662000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -99,16 +161,30 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs</url>
-          <line>91</line>
-          <properties documentPath="$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs" containingFunctionPresentation="Method 'TestAge'">
+          <line>88</line>
+          <properties documentPath="C:\Users\Estudiante UCU\Desktop\PII_Person_Debug\tests\Library.Tests\PersonTests.cs" containingFunctionPresentation="Method 'TestAge'">
             <startOffsets>
-              <option value="2821" />
+              <option value="2776" />
             </startOffsets>
             <endOffsets>
-              <option value="2854" />
+              <option value="2805" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <condition expression="age &gt; 1" language="C#" />
+          <url>file://$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs</url>
+          <line>87</line>
+          <properties documentPath="C:\Users\Estudiante UCU\Desktop\PII_Person_Debug\tests\Library.Tests\PersonTests.cs" containingFunctionPresentation="Method 'TestAge'">
+            <startOffsets>
+              <option value="2713" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2763" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -40,10 +40,7 @@ namespace Ucu.Poo.Persons
         /// </summary>
         public string FullName
         {
-            get
-            {
-                return $"{this.Name}{this.FamilyName}";
-            }
+            get{ return $"{this.Name} {this.FamilyName}"; }
         }
 
         /// <summary>
