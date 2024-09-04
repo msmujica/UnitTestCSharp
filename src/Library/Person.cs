@@ -103,7 +103,7 @@ namespace Ucu.Poo.Persons
         public static bool operator != (Person a, Person b)
         {
             return !a.Equals(b);
-        }
+        }*/
 
         /// <summary>
         /// Determina cuándo esta persona es igual a otra que se recibe como parámetro.
@@ -130,7 +130,7 @@ namespace Ucu.Poo.Persons
             }
         }
 
-        /// <summary>
+      /*  /// <summary>
         /// Genera un código hash para este objeto.
         /// </summary>
         /// <returns>El código hash generado.</returns>
