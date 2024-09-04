@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb8fc7a-ab95-45a1-a178-34a6ea8c7a59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Person/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Person/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Person/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Person/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library/Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Library.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs" afterDir="false" />
-    </list>
+    <list default="true" id="2cb8fc7a-ab95-45a1-a178-34a6ea8c7a59" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +32,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -145,7 +141,7 @@
       <workItem from="1724850432396" duration="515000" />
       <workItem from="1724850951573" duration="321000" />
       <workItem from="1724851299361" duration="2365000" />
-      <workItem from="1725456071719" duration="2662000" />
+      <workItem from="1725456071719" duration="3116000" />
     </task>
     <servers />
   </component>
@@ -155,38 +151,5 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs</url>
-          <line>88</line>
-          <properties documentPath="C:\Users\Estudiante UCU\Desktop\PII_Person_Debug\tests\Library.Tests\PersonTests.cs" containingFunctionPresentation="Method 'TestAge'">
-            <startOffsets>
-              <option value="2776" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2805" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <condition expression="age &gt; 1" language="C#" />
-          <url>file://$PROJECT_DIR$/tests/Library.Tests/PersonTests.cs</url>
-          <line>87</line>
-          <properties documentPath="C:\Users\Estudiante UCU\Desktop\PII_Person_Debug\tests\Library.Tests\PersonTests.cs" containingFunctionPresentation="Method 'TestAge'">
-            <startOffsets>
-              <option value="2713" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2763" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
